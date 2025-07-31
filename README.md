@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 "I'm currently working on a data analyst project and actively seeking new opportunities.<br><br>💻 I'm learning Excel, MySQL, Python (Pandas, NumPy), and Tableau to sharpen my skills.<br><br>🔍 I love exploring new things and diving into the world of data.<br><br>🚀 I used to work in recruitment but am now transitioning into data analytics to eventually become a data scientist—so I guess you could say I'm 'analyzing' my career path! 😄"
+🌟 "I'm currently working on a data analyst project and actively seeking new opportunities.<br><br>💻 I'm learning Excel, MySQL, Python (Pandas, NumPy), and Tableau & Power BI to sharpen my skills.<br><br>🔍 I love exploring new things and diving into the world of data.<br><br>🚀 I used to work in recruitment but am now transitioning into data analytics to eventually become a data scientist—so I guess you could say I'm 'analyzing' my career path! 😄"
 
 
 # 💻 Tech Stack:
